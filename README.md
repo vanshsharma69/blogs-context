@@ -10,11 +10,11 @@ A responsive blog listing web application built using **React**, the **Context A
 
 ### 📸 Screenshots
 
-#### ✅ Deskstop View (below `640px`)
+## ✅ Deskstop View (below `640px`)
 
 ![Mobile Screenshot](/Screenshot%202025-05-12%20104305.png)
 
-#### ✅ Mobile View
+## ✅ Mobile View
 
 ![Tablet Screenshot](/Screenshot%202025-05-12%20104339.png)
 
